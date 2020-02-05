@@ -1,4 +1,10 @@
-h1{
+.container{
+    width: 825px;
+    height: 100px;
+    background: blue;
+}
+
+/* h1{
     color:blue;
     font-size: 30px;
 }
@@ -8,4 +14,4 @@ h1{
 }
 #merah{
     color:red;
-}
+} */
