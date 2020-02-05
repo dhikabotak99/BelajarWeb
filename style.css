@@ -2,6 +2,13 @@
     width: 825px;
     height: 100px;
     background: blue;
+    display: flex;
+}
+.box{
+    width: 75px;
+    height: 75px;
+    background: red;
+    margin: 15px;
 }
 
 /* h1{
